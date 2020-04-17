@@ -8,7 +8,7 @@ const CourseList = ({ courses }) => (
       <tr>
         <th />
         <th>Title</th>
-        <th>AUthor</th>
+        <th>Author</th>
         <th>Category</th>
       </tr>
     </thead>
@@ -27,7 +27,7 @@ const CourseList = ({ courses }) => (
             <td>
               <Link to={"/courses/" + course.slug}>{course.title} </Link>
             </td>
-            <td>{course.authorId}</td>
+            <td>{course.authorName}</td>
             <td>{course.category}</td>
           </tr>
         );
