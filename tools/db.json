@@ -1,13 +1,6 @@
 {
   "courses": [
     {
-      "id": 1,
-      "title": "Securing React Apps with Asuth0",
-      "slug": "react-auth0-authentication-security",
-      "authorId": 1,
-      "category": "JavaScript"
-    },
-    {
       "id": 2,
       "title": "React: The Big Picture",
       "slug": "react-big-picture",
@@ -69,30 +62,6 @@
       "slug": "web-components-shadow-dom",
       "authorId": 1,
       "category": "HTML5"
-    },
-    {
-      "id": 11,
-      "title": "asd",
-      "authorId": 2,
-      "category": "ereeee",
-      "createdAt": 1587226444959,
-      "slug": "asd"
-    },
-    {
-      "id": 12,
-      "title": "jgh",
-      "authorId": 1,
-      "category": "gjh",
-      "createdAt": 1587226747893,
-      "slug": "jgh"
-    },
-    {
-      "id": 13,
-      "title": "cvcx",
-      "authorId": 2,
-      "category": "cx",
-      "createdAt": 1587227616368,
-      "slug": "cvcx"
     }
   ],
   "authors": [
