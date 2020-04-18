@@ -69,38 +69,6 @@
       "slug": "web-components-shadow-dom",
       "authorId": 1,
       "category": "HTML5"
-    },
-    {
-      "id": 11,
-      "title": "sdfasd",
-      "authorId": 3,
-      "category": "sdsdbs",
-      "createdAt": 1587150032439,
-      "slug": "sdfasd"
-    },
-    {
-      "id": 12,
-      "title": "dfs",
-      "authorId": 2,
-      "category": "as",
-      "createdAt": 1587150435891,
-      "slug": "dfs"
-    },
-    {
-      "id": 13,
-      "title": "dfs",
-      "authorId": 2,
-      "category": "as",
-      "createdAt": 1587150439491,
-      "slug": "dfs"
-    },
-    {
-      "id": 14,
-      "title": "asd",
-      "authorId": 2,
-      "category": "af",
-      "createdAt": 1587220348259,
-      "slug": "asd"
     }
   ],
   "authors": [
