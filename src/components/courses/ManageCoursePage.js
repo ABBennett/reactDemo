@@ -21,12 +21,14 @@ function ManageCoursePage({
   useEffect(() => {
     if (courses.length === 0) {
       loadCourses();
+    } else {
+      setCourse({ ...props.course });
     }
 
     if (authors.length === 0) {
       loadAuthors();
     }
-  }, []);
+  }, [props.course]);
 
   function handleChange(event) {
     const { name, value } = event.target;
